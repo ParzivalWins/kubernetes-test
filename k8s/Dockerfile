@@ -1,5 +1,5 @@
 FROM ruby:2.3.1 
-MAINTAINER Marc Gascon <marc.gascon@gmail.com>
+MAINTAINER Ben Morris
 
 RUN gem install sinatra
 RUN gem install redis
